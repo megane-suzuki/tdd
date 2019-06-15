@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":296:{a:2:{s:7:"defects";a:3:{s:29:"MoneyTest::testMultiplication";i:3;s:23:"MoneyTest::testEquality";i:3;s:34:"MoneyTest::testFrancMultiplication";i:4;}s:5:"times";a:3:{s:29:"MoneyTest::testMultiplication";d:0.005;s:23:"MoneyTest::testEquality";d:0.001;s:34:"MoneyTest::testFrancMultiplication";d:0;}}}
